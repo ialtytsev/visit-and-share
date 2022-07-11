@@ -1,4 +1,4 @@
-# Travel&Share
+# Visit&Share
 
 It is a simple social media app that allows users to post interesting places that they visited. http://visitandshare.ialtytsev.name
 
