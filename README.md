@@ -1,6 +1,6 @@
 # Travel&Share
 
-It is a simple social media app that allows users to post interesting places that they visited. http://visitandshare.ialtytsev.name/posts
+It is a simple social media app that allows users to post interesting places that they visited. http://visitandshare.ialtytsev.name
 
 ## Description
 The Project's Frontend is built using React&Redux and Material-Ui and it is backed by Nodejs. Its Backend is built using Expressjs using MongoDB as a Database. The user has the following abilites:
